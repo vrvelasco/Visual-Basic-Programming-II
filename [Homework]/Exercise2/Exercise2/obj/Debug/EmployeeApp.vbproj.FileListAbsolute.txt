@@ -1,0 +1,12 @@
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.Resources.resources
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.xml
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.xml
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
