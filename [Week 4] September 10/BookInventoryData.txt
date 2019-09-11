@@ -1,0 +1,8 @@
+"Crossing the River With Dogs", 19, 54.95
+"Practical Computing", 54, 51.68
+"Microsoft Windows MS-DOS Command Line", 12, 36.95
+"Windows 8, Introductory", 40, 77.95
+"Microsoft Windows 8: Introductory Concepts and Techniques", 15, 47.95
+"Windows Command Line", 36, -110.0
+"A Guide to Helpdesk Concepts", 27, 77.95
+"Microsoft Windows 8: Intermediate",28, 73.0
