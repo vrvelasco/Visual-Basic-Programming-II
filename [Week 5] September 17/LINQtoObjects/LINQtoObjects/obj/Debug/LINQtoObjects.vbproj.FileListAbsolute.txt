@@ -1,0 +1,12 @@
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe.config
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.pdb
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.xml
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.vbprojAssemblyReference.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.Form1.resources
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.Resources.resources
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.vbproj.GenerateResource.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.vbproj.CoreCompileInputs.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.exe
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.xml
+D:\[CIS 284] Visual Basic Programming II\[Week 5] September 17\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.pdb

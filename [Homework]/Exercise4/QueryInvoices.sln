@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QueryInvoices", "QueryInvoices\QueryInvoices.vbproj", "{1A6F777D-DCA2-409A-9EC9-85580A4945EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6F777D-DCA2-409A-9EC9-85580A4945EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6F777D-DCA2-409A-9EC9-85580A4945EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6F777D-DCA2-409A-9EC9-85580A4945EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6F777D-DCA2-409A-9EC9-85580A4945EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED5A896-E5CF-4974-9BF4-AAC67F11F0B3}
+	EndGlobalSection
+EndGlobal

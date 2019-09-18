@@ -1,0 +1,12 @@
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\bin\Debug\QueryInvoices.exe.config
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\bin\Debug\QueryInvoices.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\bin\Debug\QueryInvoices.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\bin\Debug\QueryInvoices.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.vbprojAssemblyReference.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.Form1.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.Resources.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.vbproj.GenerateResource.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.vbproj.CoreCompileInputs.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise4\QueryInvoices\obj\Debug\QueryInvoices.pdb
