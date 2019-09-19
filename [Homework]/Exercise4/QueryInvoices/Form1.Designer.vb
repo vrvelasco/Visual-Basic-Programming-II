@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,13 +20,12 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Me.components = New System.ComponentModel.Container()
         Me.btnB = New System.Windows.Forms.Button()
         Me.btnC = New System.Windows.Forms.Button()
         Me.btnD = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
+        Me.btnE = New System.Windows.Forms.Button()
         Me.dgvResults = New System.Windows.Forms.DataGridView()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.btnA = New System.Windows.Forms.Button()
@@ -39,14 +38,12 @@ Partial Class Form1
         Me.Label4 = New System.Windows.Forms.Label()
         Me.GroupBox5 = New System.Windows.Forms.GroupBox()
         Me.Label5 = New System.Windows.Forms.Label()
-        Me.bsInvoices = New System.Windows.Forms.BindingSource(Me.components)
         CType(Me.dgvResults, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
         Me.GroupBox4.SuspendLayout()
         Me.GroupBox5.SuspendLayout()
-        CType(Me.bsInvoices, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'btnB
@@ -76,14 +73,14 @@ Partial Class Form1
         Me.btnD.Text = "Part D"
         Me.btnD.UseVisualStyleBackColor = True
         '
-        'Button5
+        'btnE
         '
-        Me.Button5.Location = New System.Drawing.Point(6, 71)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(188, 23)
-        Me.Button5.TabIndex = 4
-        Me.Button5.Text = "Part E"
-        Me.Button5.UseVisualStyleBackColor = True
+        Me.btnE.Location = New System.Drawing.Point(6, 71)
+        Me.btnE.Name = "btnE"
+        Me.btnE.Size = New System.Drawing.Size(188, 23)
+        Me.btnE.TabIndex = 4
+        Me.btnE.Text = "Part E"
+        Me.btnE.UseVisualStyleBackColor = True
         '
         'dgvResults
         '
@@ -190,7 +187,7 @@ Partial Class Form1
         'GroupBox5
         '
         Me.GroupBox5.Controls.Add(Me.Label5)
-        Me.GroupBox5.Controls.Add(Me.Button5)
+        Me.GroupBox5.Controls.Add(Me.btnE)
         Me.GroupBox5.Location = New System.Drawing.Point(461, 224)
         Me.GroupBox5.Name = "GroupBox5"
         Me.GroupBox5.Size = New System.Drawing.Size(200, 100)
@@ -230,14 +227,13 @@ Partial Class Form1
         Me.GroupBox3.ResumeLayout(False)
         Me.GroupBox4.ResumeLayout(False)
         Me.GroupBox5.ResumeLayout(False)
-        CType(Me.bsInvoices, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
     Friend WithEvents btnB As Button
     Friend WithEvents btnC As Button
     Friend WithEvents btnD As Button
-    Friend WithEvents Button5 As Button
+    Friend WithEvents btnE As Button
     Friend WithEvents dgvResults As DataGridView
     Friend WithEvents GroupBox1 As GroupBox
     Friend WithEvents btnA As Button
@@ -250,5 +246,4 @@ Partial Class Form1
     Friend WithEvents Label4 As Label
     Friend WithEvents GroupBox5 As GroupBox
     Friend WithEvents Label5 As Label
-    Friend WithEvents bsInvoices As BindingSource
 End Class
