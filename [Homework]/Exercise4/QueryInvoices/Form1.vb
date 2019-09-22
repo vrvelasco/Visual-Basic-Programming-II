@@ -37,27 +37,27 @@
     End Sub
 
     Private Sub BtnD_Click(sender As Object, e As EventArgs) Handles btnD.Click
-        dgvResults.DataSource = PartDFunction()
+        Dim PartD = From d In invoice
+                    Let _invoice = d.Quantity * d.Price
+                    Order By _invoice
+                    Select d.PartDescription, InvoiceTotal = _invoice
+        dgvResults.DataSource = PartD.ToArray()
         UpdateDisplay()
     End Sub
 
     Private Sub BtnE_Click(sender As Object, e As EventArgs) Handles btnE.Click
-        'Dim PartDToE = PartDFunction()
-        'Dim PartE = From de In PartDToE
-        'Where de.Price >= 200 And de.Price <= 500
-        'dgvResults.DataSource = PartDToE
-        'UpdateDisplay()
+        Dim PartD = From d In invoice
+                    Let _invoice = d.Quantity * d.Price
+                    Order By _invoice
+                    Select d.PartDescription, InvoiceTotal = _invoice
+                    
+        Dim PartE = From e in PartD
+                    Where InvoiceTotal >=200 And InvoiceTotal <=500
+        dgvResults.DataSource = PartE.ToArray()
+        UpdateDisplay()
     End Sub
 
-    ' Methods
-    Private Function PartDFunction()
-        Dim PartD = From d In invoices
-                    Order By d.Price
-                    Select d.PartDescription, d.Price
-        dgvResults.DataSource = PartD.ToArray()
-        UpdateDisplay()
-        Return PartD.ToArray()
-    End Function
+    ' Method    
     Private Sub UpdateDisplay()
         dgvResults.Refresh()
     End Sub
