@@ -37,7 +37,7 @@
     End Sub
 
     Private Sub BtnD_Click(sender As Object, e As EventArgs) Handles btnD.Click
-        Dim PartD = From d In invoice
+        Dim PartD = From d In invoices
                     Let _invoice = d.Quantity * d.Price
                     Order By _invoice
                     Select d.PartDescription, InvoiceTotal = _invoice
@@ -46,13 +46,13 @@
     End Sub
 
     Private Sub BtnE_Click(sender As Object, e As EventArgs) Handles btnE.Click
-        Dim PartD = From d In invoice
+        Dim PartD = From d In invoices
                     Let _invoice = d.Quantity * d.Price
                     Order By _invoice
                     Select d.PartDescription, InvoiceTotal = _invoice
-                    
-        Dim PartE = From e in PartD
-                    Where InvoiceTotal >=200 And InvoiceTotal <=500
+
+        Dim PartE = From de In PartD
+                    Where de.InvoiceTotal >= 200 And de.InvoiceTotal <= 500
         dgvResults.DataSource = PartE.ToArray()
         UpdateDisplay()
     End Sub
