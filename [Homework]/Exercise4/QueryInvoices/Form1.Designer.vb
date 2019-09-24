@@ -51,7 +51,7 @@ Partial Class Form1
         Me.btnB.Location = New System.Drawing.Point(6, 71)
         Me.btnB.Name = "btnB"
         Me.btnB.Size = New System.Drawing.Size(188, 23)
-        Me.btnB.TabIndex = 1
+        Me.btnB.TabIndex = 0
         Me.btnB.Text = "Part B"
         Me.btnB.UseVisualStyleBackColor = True
         '
@@ -60,7 +60,7 @@ Partial Class Form1
         Me.btnC.Location = New System.Drawing.Point(6, 71)
         Me.btnC.Name = "btnC"
         Me.btnC.Size = New System.Drawing.Size(188, 23)
-        Me.btnC.TabIndex = 2
+        Me.btnC.TabIndex = 0
         Me.btnC.Text = "Part C"
         Me.btnC.UseVisualStyleBackColor = True
         '
@@ -69,7 +69,7 @@ Partial Class Form1
         Me.btnD.Location = New System.Drawing.Point(6, 71)
         Me.btnD.Name = "btnD"
         Me.btnD.Size = New System.Drawing.Size(225, 23)
-        Me.btnD.TabIndex = 3
+        Me.btnD.TabIndex = 0
         Me.btnD.Text = "Part D"
         Me.btnD.UseVisualStyleBackColor = True
         '
@@ -78,7 +78,7 @@ Partial Class Form1
         Me.btnE.Location = New System.Drawing.Point(6, 71)
         Me.btnE.Name = "btnE"
         Me.btnE.Size = New System.Drawing.Size(188, 23)
-        Me.btnE.TabIndex = 4
+        Me.btnE.TabIndex = 0
         Me.btnE.Text = "Part E"
         Me.btnE.UseVisualStyleBackColor = True
         '
@@ -97,7 +97,7 @@ Partial Class Form1
         Me.GroupBox1.Location = New System.Drawing.Point(12, 12)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(200, 100)
-        Me.GroupBox1.TabIndex = 6
+        Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Part A"
         '
@@ -106,7 +106,7 @@ Partial Class Form1
         Me.btnA.Location = New System.Drawing.Point(6, 71)
         Me.btnA.Name = "btnA"
         Me.btnA.Size = New System.Drawing.Size(188, 23)
-        Me.btnA.TabIndex = 8
+        Me.btnA.TabIndex = 0
         Me.btnA.Text = "Part A"
         Me.btnA.UseVisualStyleBackColor = True
         '
@@ -127,7 +127,7 @@ Partial Class Form1
         Me.GroupBox2.Location = New System.Drawing.Point(12, 118)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(200, 100)
-        Me.GroupBox2.TabIndex = 0
+        Me.GroupBox2.TabIndex = 1
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Part B"
         '
@@ -148,7 +148,7 @@ Partial Class Form1
         Me.GroupBox3.Location = New System.Drawing.Point(12, 224)
         Me.GroupBox3.Name = "GroupBox3"
         Me.GroupBox3.Size = New System.Drawing.Size(200, 100)
-        Me.GroupBox3.TabIndex = 0
+        Me.GroupBox3.TabIndex = 2
         Me.GroupBox3.TabStop = False
         Me.GroupBox3.Text = "Part C"
         '
@@ -169,7 +169,7 @@ Partial Class Form1
         Me.GroupBox4.Location = New System.Drawing.Point(218, 224)
         Me.GroupBox4.Name = "GroupBox4"
         Me.GroupBox4.Size = New System.Drawing.Size(237, 100)
-        Me.GroupBox4.TabIndex = 0
+        Me.GroupBox4.TabIndex = 3
         Me.GroupBox4.TabStop = False
         Me.GroupBox4.Text = "Part D"
         '
@@ -191,7 +191,7 @@ Partial Class Form1
         Me.GroupBox5.Location = New System.Drawing.Point(461, 224)
         Me.GroupBox5.Name = "GroupBox5"
         Me.GroupBox5.Size = New System.Drawing.Size(200, 100)
-        Me.GroupBox5.TabIndex = 9
+        Me.GroupBox5.TabIndex = 4
         Me.GroupBox5.TabStop = False
         Me.GroupBox5.Text = "Part E"
         '
