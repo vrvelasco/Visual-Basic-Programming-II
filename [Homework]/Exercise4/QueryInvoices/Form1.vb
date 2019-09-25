@@ -47,9 +47,9 @@
 
     Private Sub BtnE_Click(sender As Object, e As EventArgs) Handles btnE.Click
         Dim PartD = From d In invoices
-                    Let _invoice = d.Quantity * d.Price
-                    Order By _invoice
-                    Select d.PartDescription, InvoiceTotal = _invoice
+                    Let InvoiceTotal = d.Quantity * d.Price
+                    Order By InvoiceTotal
+                    Select d.PartDescription, InvoiceTotal
 
         Dim PartE = From de In PartD
                     Where de.InvoiceTotal >= 200 And de.InvoiceTotal <= 500

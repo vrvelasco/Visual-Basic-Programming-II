@@ -9,19 +9,6 @@
         New Employee("Polly Marks", "(618) 555-1075", 1520.0)
         }
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'Try
-        '    employees = {
-        'New Employee("Tom Thompson", "(618) 555-4444", 1100.0),
-        'New Employee("Georgia Kenedy", "(618) 555-5836", 1320.0),
-        'New Employee("Pete Peterson", "(618) 555-4327", 1188.0),
-        'New Employee("Meredith Jones", "(618) 555-1180", 1795.0),
-        'New Employee("Jean Cummings", "(618) 555-2195", 1716.0),
-        'New Employee("Michael Robbins", "(618) 555-5443", 1200.0),
-        'New Employee("Polly Marks", "(618) 555-1075", 1520.0)
-        '}
-        'Catch ex As Exception
-        '    MessageBox.Show("Caught it!")
-        'End Try
 
         bsEmployees.DataSource = employees
         dgvEmployees.DataSource = bsEmployees
@@ -113,4 +100,3 @@
         Return False
     End Function
 End Class
-
