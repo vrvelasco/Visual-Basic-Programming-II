@@ -1,0 +1,74 @@
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.Resources.resources
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\bin\Debug\Exercise2.xml
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.xml
+C:\Users\Victor Velasco\source\repos\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\bin\Debug\Exercise2.xml
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\Exercise2.Resources.resources
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\Exercise2.xml
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\bin\Debug\Exercise2.exe.config
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\bin\Debug\Exercise2.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\bin\Debug\Exercise2.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\bin\Debug\Exercise2.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\Exercise2.Form1.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\Exercise2.Resources.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\Exercise2.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\Exercise2.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise3\Exercise2\obj\Debug\Exercise2.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\bin\Debug\Exercise2.exe.config
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\bin\Debug\Exercise2.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\bin\Debug\Exercise2.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\bin\Debug\Exercise2.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\Exercise2.Form1.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\Exercise2.Resources.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\Exercise2.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\Exercise2.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise5\Exercise2\obj\Debug\Exercise2.pdb
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.exe.config
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.exe
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.pdb
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.xml
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.Resources.resources
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.exe
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.xml
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.pdb
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.Main.resources
+D:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.Add.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\EmployeeApp.vbprojAssemblyReference.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.Add.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.Main.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.Resources.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\EmployeeApp.vbproj.GenerateResource.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\EmployeeApp.vbproj.CoreCompileInputs.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\obj\Debug\Exercise2.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.exe.config
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise6\Exercise2\bin\Debug\Exercise2.xml

@@ -219,7 +219,9 @@
 
         Dim newStu As New Form2
         newStu.ShowDialog()
-        bsStudents.Insert(0, newStu.stu)
+        If newStu.stu IsNot Nothing Then
+            bsStudents.Insert(0, newStu.stu)
+        End If
     End Sub
 
     Private Sub btnRemove_Click(sender As Object, e As EventArgs) Handles btnRemove.Click

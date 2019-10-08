@@ -27,6 +27,7 @@ Partial Class Form2
         Me.txtFirst = New System.Windows.Forms.TextBox()
         Me.txtLast = New System.Windows.Forms.TextBox()
         Me.btnSave = New System.Windows.Forms.Button()
+        Me.btnCancel = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -65,10 +66,19 @@ Partial Class Form2
         '
         Me.btnSave.Location = New System.Drawing.Point(12, 58)
         Me.btnSave.Name = "btnSave"
-        Me.btnSave.Size = New System.Drawing.Size(166, 23)
+        Me.btnSave.Size = New System.Drawing.Size(80, 23)
         Me.btnSave.TabIndex = 4
         Me.btnSave.Text = "Save"
         Me.btnSave.UseVisualStyleBackColor = True
+        '
+        'btnCancel
+        '
+        Me.btnCancel.Location = New System.Drawing.Point(98, 58)
+        Me.btnCancel.Name = "btnCancel"
+        Me.btnCancel.Size = New System.Drawing.Size(80, 23)
+        Me.btnCancel.TabIndex = 5
+        Me.btnCancel.Text = "Cancel"
+        Me.btnCancel.UseVisualStyleBackColor = True
         '
         'Form2
         '
@@ -76,6 +86,7 @@ Partial Class Form2
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(187, 89)
+        Me.Controls.Add(Me.btnCancel)
         Me.Controls.Add(Me.btnSave)
         Me.Controls.Add(Me.txtLast)
         Me.Controls.Add(Me.txtFirst)
@@ -95,4 +106,5 @@ Partial Class Form2
     Friend WithEvents txtFirst As TextBox
     Friend WithEvents txtLast As TextBox
     Friend WithEvents btnSave As Button
+    Friend WithEvents btnCancel As Button
 End Class
