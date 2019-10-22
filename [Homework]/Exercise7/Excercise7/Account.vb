@@ -25,10 +25,14 @@
 
     ' Methods
     Public Overridable Sub Credit(c As Decimal)
-        Balance += c
+        If c >= 0 Then
+            Balance += c
+        Else
+            Throw New Exception
+        End If
     End Sub
     Public Overridable Sub Debit(d As Decimal)
-        If Balance >= d Then
+        If Balance >= d And d >= 0 Then
             Balance -= d
         Else
             Throw New Exception

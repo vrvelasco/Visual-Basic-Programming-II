@@ -28,11 +28,7 @@
         Balance -= Fee ' Charge fee
     End Sub
     Public Overrides Sub Debit(d As Decimal)
-        If Balance >= d Then
-            Balance -= d
-            Balance -= Fee
-        Else
-            Throw New Exception
-        End If
+        MyBase.Debit(d)
+        Balance -= Fee
     End Sub
 End Class

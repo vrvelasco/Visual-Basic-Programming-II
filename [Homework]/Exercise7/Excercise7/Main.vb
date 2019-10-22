@@ -53,8 +53,12 @@ Welcome! Please make a selection below.                                         
                                             Console.Write(vbNewLine & "Amount of deposit: $")
                                             Dim deposit = ValidateAmount(Console.ReadLine())
 
-                                            checking.Credit(deposit)
-                                            Console.WriteLine(String.Format(vbNewLine & "{0} was deposited in the account. A fee of {1} was charged.", deposit.ToString("c"), checking.Fee.ToString("c")))
+                                            Try
+                                                checking.Credit(deposit)
+                                                Console.WriteLine(String.Format(vbNewLine & "{0} was deposited in the account. A fee of {1} was charged.", deposit.ToString("c"), checking.Fee.ToString("c")))
+                                            Catch ex As Exception
+                                                Console.WriteLine(vbNewLine & "ERROR: The credit amount is incorrect.")
+                                            End Try
                                         Case 3 ' Withdrawl funds
                                             Console.Write(vbNewLine & "Amount of withdrawl: $")
                                             Dim withdrawal = ValidateAmount(Console.ReadLine())
@@ -63,7 +67,7 @@ Welcome! Please make a selection below.                                         
                                                 checking.Debit(withdrawal)
                                                 Console.WriteLine(String.Format(vbNewLine & "{0} was debited from the account. A fee of {1} was charged.", withdrawal.ToString("c"), checking.Fee.ToString("c")))
                                             Catch ex As Exception
-                                                Console.WriteLine(vbNewLine & "ERROR: The debit amount exceeds the current balance.")
+                                                Console.WriteLine(vbNewLine & "ERROR: The debit amount is incorrect or exceeds the current balance.")
                                             End Try
                                     End Select
                                 Else
@@ -113,8 +117,12 @@ Welcome! Please make a selection below.                                         
                                             Console.Write(vbNewLine & "Amount of deposit: $")
                                             Dim deposit = ValidateAmount(Console.ReadLine())
 
-                                            savings.Credit(deposit)
-                                            Console.WriteLine(String.Format(vbNewLine & "{0} was deposited in the account.", deposit.ToString("c")))
+                                            Try
+                                                savings.Credit(deposit)
+                                                Console.WriteLine(String.Format(vbNewLine & "{0} was deposited in the account.", deposit.ToString("c")))
+                                            Catch ex As Exception
+                                                Console.WriteLine(vbNewLine & "ERROR: The credit amount is incorrect.")
+                                            End Try
                                         Case 3 ' Withdrawl funds
                                             Console.Write(vbNewLine & "Amount of withdrawl: $")
                                             Dim withdrawal = ValidateAmount(Console.ReadLine())
@@ -123,7 +131,7 @@ Welcome! Please make a selection below.                                         
                                                 savings.Debit(withdrawal)
                                                 Console.WriteLine(String.Format(vbNewLine & "{0} was debited from the account.", withdrawal.ToString("c")))
                                             Catch ex As Exception
-                                                Console.WriteLine(vbNewLine & "ERROR: The debit amount exceeds the current balance.")
+                                                Console.WriteLine(vbNewLine & "ERROR: The debit amount is incorrect or exceeds the current balance.")
                                             End Try
                                         Case 4
                                             Dim interest As Double
