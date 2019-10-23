@@ -1,0 +1,12 @@
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\bin\Debug\PubApp.exe.config
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\bin\Debug\PubApp.exe
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\bin\Debug\PubApp.pdb
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\bin\Debug\PubApp.xml
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp.vbprojAssemblyReference.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp2.Form1.resources
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp2.Resources.resources
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp.vbproj.GenerateResource.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp.vbproj.CoreCompileInputs.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp.exe
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp.xml
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\PubApp_Part2_starter\PubApp\PubApp\obj\Debug\PubApp.pdb

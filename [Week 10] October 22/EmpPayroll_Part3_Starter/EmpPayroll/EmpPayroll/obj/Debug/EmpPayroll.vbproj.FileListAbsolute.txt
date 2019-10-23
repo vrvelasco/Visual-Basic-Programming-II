@@ -1,0 +1,24 @@
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.exe.config
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.exe
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.pdb
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.xml
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.vbprojAssemblyReference.cache
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll2.Form1.resources
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll2.Resources.resources
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.vbproj.GenerateResource.cache
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.vbproj.CoreCompileInputs.cache
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.exe
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.xml
+C:\Users\timbr\OneDrive\1201\284\working\week10\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.pdb
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.exe.config
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.exe
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.pdb
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\bin\Debug\EmpPayroll.xml
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.vbprojAssemblyReference.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll2.Form1.resources
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll2.Resources.resources
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.vbproj.GenerateResource.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.vbproj.CoreCompileInputs.cache
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.exe
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.xml
+D:\[CIS 284] Visual Basic Programming II\[Week 10] October 22\EmpPayroll_Part3_Starter\EmpPayroll\EmpPayroll\obj\Debug\EmpPayroll.pdb
