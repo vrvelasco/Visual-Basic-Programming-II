@@ -1,0 +1,22 @@
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.vbprojAssemblyReference.cache
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.Resources.resources
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.vbproj.GenerateResource.cache
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.vbproj.CoreCompileInputs.cache
+F:\Exercise8\Exercise8\bin\Debug\Exercise8.exe.config
+F:\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+F:\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+F:\Exercise8\Exercise8\bin\Debug\Exercise8.xml
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.exe
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.xml
+F:\Exercise8\Exercise8\obj\Debug\Exercise8.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\bin\Debug\Exercise8.exe.config
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\bin\Debug\Exercise8.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\bin\Debug\Exercise8.pdb
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\bin\Debug\Exercise8.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.vbprojAssemblyReference.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.Resources.resources
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.vbproj.GenerateResource.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.vbproj.CoreCompileInputs.cache
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.exe
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.xml
+F:\[CIS 284] Visual Basic Programming II\[Homework]\Exercise8\Exercise8\obj\Debug\Exercise8.pdb
