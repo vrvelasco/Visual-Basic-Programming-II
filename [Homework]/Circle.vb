@@ -1,27 +1,27 @@
 Public Class Circle
 
-Private _side As Double
+  Private _radius As Double
 
 ' Constructor
-Public New(s As Double)
-Side = s
+  Public New(r As Double)
+  Radius = r
 End New
 
-Public Property Side As Double
+Public Property Radius As Double
 Get
-Return _side
+  Return _radius
 End Get
 Set (value as Double) ' Validate that the side is not negative
 If value > 0 Then
-_side = value
+    _radius = value
 Else
-Throw New ArgumentOutOfRangeException("Side value need to be greater than zero.")
+    Throw New ArgumentOutOfRangeException("Radius value need to be greater than zero.")
 End If
 End Set
 End Property
 
 Public Function GetArea()
-Return Side * Side
+Return Math.PI * Radius * Radius
 End Function
 
 End Class
