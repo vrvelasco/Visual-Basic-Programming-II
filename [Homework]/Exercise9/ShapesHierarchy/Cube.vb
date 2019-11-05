@@ -16,7 +16,7 @@
     End Function
 
     Public Overrides Function ToString() As String
-        Return String.Format("{4}CUBE{0}{0}Side: {1:N}{0}Area: {2:N}{0}Volume: {3}", vbNewLine, Side, GetArea(), GetVolume(), MyBase.ToString())
+        Return String.Format("{4}CUBE{0}{0}Side: {1:N}{0}Area: {2:N}{0}Volume: {3:N}", vbNewLine, Side, GetArea(), GetVolume(), MyBase.ToString())
     End Function
 
 End Class
