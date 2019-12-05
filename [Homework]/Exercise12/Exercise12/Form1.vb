@@ -44,8 +44,10 @@ Public Class Form1
     End Sub
 
     Private Sub lstResults_SelectedIndexChanged(sender As Object, e As EventArgs) Handles lstResults.SelectedIndexChanged
-        Dim match = db.Employees.
-            Where(Function(m) m.FullName.Equals(lstResults.Text))
+        Dim match = db.Employees.Local.
+        Where(Function(m) m.FullName.Equals(lstResults.Text))
+
+        EmployeeBindingSource.Position = db.Employees.ToList().IndexOf(match.First())
     End Sub
 
     Private Sub btnView_Click(sender As Object, e As EventArgs) Handles btnView.Click
@@ -55,3 +57,5 @@ Public Class Form1
             Select(Function(s) New With {s.FullName, s.hiredate}).ToList()
     End Sub
 End Class
+'cellleaving
+'formclosing
